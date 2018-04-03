@@ -1,2 +1,2 @@
 # Super-HandClap
-Do not care about profit, only care about the so-called love
+Don't care about profits, only care about the love of code
